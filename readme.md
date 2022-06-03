@@ -1,23 +1,123 @@
-# Awesome 4D [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome 4D 
 
-> A curated list of 4D resources
-
-
-## Contents
-
-- [Section](#section)
-- [Another Section](#another-section)
+This is a curated list of 4D resources :sunglasses:
 
 
-## Section
 
-About this section. Optional. Keep this short and focus on the list.
+## 4D Components
+
+- [List item](http://example.com)
+
+
+## Forms
 
 - [List item](http://example.com)
 - [List item](http://example.com)
 
 
-## Another Section
+## 4D for iOS
+
+- [List item](http://example.com)
+- [List item](http://example.com)
+
+
+## 4D for Android
+
+
+- [List item](http://example.com)
+- [List item](http://example.com)
+
+
+## 4D Write Pro
+
+
+- [List item](http://example.com)
+- [List item](http://example.com)
+
+## 4D View Pro
+
+- [List item](http://example.com)
+- [List item](http://example.com)
+
+
+## ORDA
+
+- [List item](http://example.com)
+- [List item](http://example.com)
+
+
+## Web
+
+- [List item](http://example.com)
+- [List item](http://example.com)
+
+
+## Administration
+
+- [List item](http://example.com)
+
+
+## Security
+
+### Encryption
+
+- [List item](http://example.com)
+- [List item](http://example.com)
+
+
+## Listbox
+
+- [List item](http://example.com)
+- [List item](http://example.com)
+
+
+## Mail
+
+- [List item](http://example.com)
+- [List item](http://example.com)
+
+
+## Programming
+
+### Classes
+
+- [List item](http://example.com)
+
+
+### System Workers
+
+- [List item](http://example.com)
+- [List item](http://example.com)
+
+### Preemptive 
+
+- [List item](http://example.com)
+- [List item](http://example.com)
+
+
+## Code Editor
+
+- [List item](http://example.com)
+
+
+## Client/Server
+
+- [List item](http://example.com)
+- [List item](http://example.com)
+
+
+## User Interface
+
+- [List item](http://example.com)
+- [List item](http://example.com)
+
+
+## User Experience
+
+- [List item](http://example.com)
+- [List item](http://example.com)
+
+## General
 
 ### Subsection
 
@@ -29,9 +129,3 @@ About this section. Optional. Keep this short and focus on the list.
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
-
-To the extent possible under law, original author has waived all copyright and
-related or neighboring rights to this work.
