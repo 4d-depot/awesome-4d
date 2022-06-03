@@ -8,9 +8,10 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Chose corresponding section (Programming, 4D components, etc. or General if you don't see an appropriate section) for your suggestion.
+- All links must be relevant, tested and well described.
+- New categories and sections or improvements to the existing are welcome.
+- The pull request and commit should have a useful title.
 
 Thank you for your suggestions!
 
