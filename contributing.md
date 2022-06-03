@@ -10,6 +10,8 @@ Ensure your pull request adheres to the following guidelines:
 
 - Chose corresponding section (Programming, 4D components, etc. or General if you don't see an appropriate section) for your suggestion.
 - All links must be relevant, tested and well described.
+- Use the following format: `[List Name](link)`.
+- Make an individual pull request for each suggestion.
 - New categories and sections or improvements to the existing are welcome.
 - The pull request and commit should have a useful title.
 
