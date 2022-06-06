@@ -2,9 +2,9 @@
 
 This is a curated list of 4D resources :sunglasses:
 
-If you have something awesome to contribute to an awesome list, please read [the Contribution Guidelines](https://github.com/intissarMez/awesome-4d/blob/master/contributing.md).
+If you have something awesome to contribute to the 4D Awesome list, please read [the Contribution Guidelines](https://github.com/intissarMez/awesome-4d/blob/master/contributing.md).
 
-Hope you find what you're looking for in the list below:
+And if you are on the hunt for something specific, check the list below:
 
 ## 4D Components
 
