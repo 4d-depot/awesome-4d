@@ -8,25 +8,21 @@ And if you are on the hunt for something specific, check the list below:
 
 ## 4D Components
 
-- [List name](http://example.com)
+- [4D Debug Log Analyzer](https://github.com/4d-depot/4DDebugLogAnalyser)
+- [File Transfer](https://github.com/ThomasMaul/FileTransfer_Class)
 
-
-## Forms
-
-- [List name](http://example.com)
-- [List name](http://example.com)
 
 ## Programming
 
 ### Classes
 
-- [List name](http://example.com)
+- [Useful Classes](https://github.com/ThomasMaul/Classes)
 
 
 ### System Workers
 
-- [List name](http://example.com)
-- [List name](http://example.com)
+- [Differences between LAUNCH EXTERNAL PROCESS and system workers](https://github.com/ThomasMaul/Example_System_workers)
+
 
 ### Preemptive 
 
@@ -52,12 +48,10 @@ And if you are on the hunt for something specific, check the list below:
 
 ## Administration
 
-- [List name](http://example.com)
+- [A rewritten 4D Server Administrator Window](https://github.com/ThomasMaul/AdminWindow)
 
 
 ## Security
-
-### Encryption
 
 - [List name](http://example.com)
 - [List name](http://example.com)
