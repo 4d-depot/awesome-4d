@@ -63,8 +63,7 @@ And if you are on the hunt for something specific, check the list below:
 
 ## Listbox
 
-- [List name](http://example.com)
-- [List name](http://example.com)
+- [listbox class for collections/entity selections](https://github.com/KirkBrooks/listbox_class)
 
 
 ## Mail
