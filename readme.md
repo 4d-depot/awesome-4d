@@ -16,6 +16,8 @@ And if you are on the hunt for something specific, check the list below:
 
 ### Classes
 
+	* [Google Apps](https://github.com/macMikey/4d-google-workspace)
+
 - [Useful Classes](https://github.com/ThomasMaul/Classes)
 
 
@@ -63,7 +65,7 @@ And if you are on the hunt for something specific, check the list below:
 
 ## Listbox
 
-- [listbox class for collections/entity selections](https://github.com/KirkBrooks/listbox_class)
+- [Listbox class for collections/entity selections](https://github.com/KirkBrooks/listbox_class)
 
 
 ## Mail
