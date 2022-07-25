@@ -16,9 +16,8 @@ And if you are on the hunt for something specific, check the list below:
 
 ### Classes
 
-	* [Google Apps](https://github.com/macMikey/4d-google-workspace)
-
-- [Useful Classes](https://github.com/ThomasMaul/Classes)
+* [Google Apps](https://github.com/macMikey/4d-google-workspace)
+* [Useful Classes](https://github.com/ThomasMaul/Classes)
 
 
 ### System Workers
