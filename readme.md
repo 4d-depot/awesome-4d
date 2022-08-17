@@ -18,6 +18,7 @@ And if you are on the hunt for something specific, check the list below:
 
 * [Google Apps](https://github.com/macMikey/4d-google-workspace)
 * [Useful Classes](https://github.com/ThomasMaul/Classes)
+* [SVG with Classes]([https://github.com/ThomasMaul/Classe](https://github.com/vdelachaux/SVG-with-Classes)
 
 
 ### System Workers
@@ -33,7 +34,7 @@ And if you are on the hunt for something specific, check the list below:
 
 ## Code Editor
 
-- [List name](http://example.com)
+- [4D Pop Constants Editor](https://github.com/vdelachaux/4DPop-Constants-Editor)
 
 ## Themes
 
