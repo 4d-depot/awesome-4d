@@ -34,7 +34,12 @@ And if you are on the hunt for something specific, check the list below:
 
 ## Code Editor
 
-- [4D Pop Constants Editor](https://github.com/vdelachaux/4DPop-Constants-Editor)
+- [4DPop QuickOpen](https://github.com/vdelachaux/4DPop-QuickOpen) 
+- [4DPop](https://github.com/vdelachaux/4DPop)
+- [4DPop Macros](https://github.com/vdelachaux/4DPop-Macros)
+- [4DPop Constants Editor](https://github.com/vdelachaux/4DPop-Constants-Editor)
+- [4DPop XLIFF Pro](https://github.com/vdelachaux/4DPop-XLIFF-Pro)
+- [4DPop Git](https://github.com/vdelachaux/4DPop-Git)
 
 ## Themes
 
