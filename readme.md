@@ -126,7 +126,7 @@ And if you are on the hunt for something specific, check the list below:
 - [AJ_Math](https://github.com/AJARProject/AJ_Math)
 - [AJ_Tools_Regex](https://github.com/AJARProject/AJ_Tools_Regex)
 - [AJ_Toold_UnitTest](https://github.com/AJARProject/AJ_Tools_UnitTest)
-- [CodeAnalysis - A 4D component to provide analysis capabilities on the 4d source and data.] (https://github.com/dbeaubien/CodeAnalysis)
+- [CodeAnalysis - A 4D component to provide analysis capabilities on the 4d source and data.](https://github.com/dbeaubien/CodeAnalysis)
 
 ## Third-Party Tools
 
