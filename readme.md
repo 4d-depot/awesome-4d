@@ -132,7 +132,7 @@ And if you are on the hunt for something specific, check the list below:
 
 * .md editors
   * [Typora](http://typora.io)
-
+  * [MacDown](https://github.com/MacDownApp/macdown) a free and open source Markdown editor for macOS
 
 ## Contribute
 
