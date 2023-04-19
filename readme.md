@@ -117,8 +117,8 @@ And if you are on the hunt for something specific, check the list below:
 ## 4D Write Pro
 
 
-- [4D WritePro Interface - WP Toolbar](https://github.com/ArminDeeg/4D-WritePro-Interface---WP-Toolbar)
-- [List name](http://example.com)
+- [modern WP Toolbar]([https://github.com/ArminDeeg/4D-WritePro-Interface---WP-Toolbar](https://github.com/ArminDeeg/modern-WP-Toolbar---4D-WritePro-Interface))
+
 
 ## 4D View Pro
 
@@ -132,6 +132,7 @@ And if you are on the hunt for something specific, check the list below:
 - [AJ_Tools_Regex](https://github.com/AJARProject/AJ_Tools_Regex)
 - [AJ_Toold_UnitTest](https://github.com/AJARProject/AJ_Tools_UnitTest)
 - [CodeAnalysis - A 4D component to provide analysis capabilities on the 4d source and data.](https://github.com/dbeaubien/CodeAnalysis)
+- [Mac Reduce PDF Size](https://github.com/ArminDeeg/Reduce-Mac-PDF-size-with-4D-Ghostscript-Plugin)
 
 ## Third-Party Tools
 
