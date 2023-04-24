@@ -117,7 +117,7 @@ And if you are on the hunt for something specific, check the list below:
 ## 4D Write Pro
 
 
-- [modern WP Toolbar]([https://github.com/ArminDeeg/4D-WritePro-Interface---WP-Toolbar](https://github.com/ArminDeeg/modern-WP-Toolbar---4D-WritePro-Interface))
+- [modern WP Toolbar](https://github.com/ArminDeeg/modern-WP-Toolbar---4D-WritePro-Interface)
 
 
 ## 4D View Pro
