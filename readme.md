@@ -10,7 +10,8 @@ And if you are on the hunt for something specific, check the list below:
 
 - [4D Debug Log Analyzer](https://github.com/4d-depot/4DDebugLogAnalyser)
 - [File Transfer](https://github.com/ThomasMaul/FileTransfer_Class)
-
+- [Lets Encrypt / ACME](https://github.com/blegay/acme_component)
+- [QR Code](https://github.com/blegay/qr_component)
 
 ## Programming
 
