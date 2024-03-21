@@ -41,6 +41,7 @@ And if you are on the hunt for something specific, check the list below:
 - [4DPop Constants Editor](https://github.com/vdelachaux/4DPop-Constants-Editor)
 - [4DPop XLIFF Pro](https://github.com/vdelachaux/4DPop-XLIFF-Pro)
 - [4DPop Git](https://github.com/vdelachaux/4DPop-Git)
+- [Form Macro helper](https://github.com/patrick-poly/FormMacro-helper)
 
 ## Themes
 
